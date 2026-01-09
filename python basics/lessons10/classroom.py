@@ -1,0 +1,10 @@
+# def fibonachi(n):
+#     sonlar = []
+#     a,b = 0,1
+#     for i in range(n):
+#         sonlar.append(a)
+#         a , b = b , a+b
+#     return sonlar
+
+# print(fibonachi(5))
+
