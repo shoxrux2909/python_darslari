@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Daromad bo'yicha Qo'shma Shtatlardagi eng yirik kompaniyalar ro'yxati")
 
-data = pd.read_csv('Company.csv')
+data = pd.read_csv('python_ai\Company.csv')
 
 view = st.sidebar.radio(
     "Ma'lumotni qay tarzda ko'rmoqchisiz",
